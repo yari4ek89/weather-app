@@ -36,4 +36,4 @@ const WEATHER_API = 'YOUR_KEY';
 ![App Preview](img/preview.png)
 
 ## 🌍 Live Demo
-[Open Weather App in your browser](yari4ek89.github.io/weather-app)
+[Open Weather App in your browser](https://yari4ek89.github.io/weather-app/)
